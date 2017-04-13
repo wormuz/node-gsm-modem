@@ -1,17 +1,17 @@
 {
-  "name": "gsm-modem",
+  "name": "gsm-modem-2",
   "description": "A package for controlling gsm modem connected to serial port using AT commands",
   "version": "0.3.19",
   "author": "Sergey Birukov <sergeyb26@gmail.com>",
   "dependencies": {
     "intel": "^1.0.2",
-    "serialport": "^2.0.5"
+    "serialport": "^4.0.1"
   },
   "engines": {
     "node": ">=0.10"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paintenzero/node-gsm-modem.git"
+    "url": "https://github.com/d30jeff/node-gsm-modem.git"
   }
 }
