@@ -1,3 +1,11 @@
+Disclaimer
+==========
+
+I forked this with the intention of having the package.json **serialport** number updated
+and added it to npm for the ease of installation.
+
+All credits go to the original creator.
+
 node-gsm-modem
 ==============
 
